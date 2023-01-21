@@ -156,6 +156,17 @@ nav ul li a {
   justify-content: center;
   text-align: center;
 }
+#qualities1 {
+  width: 90%;
+  max-width: 1366px;
+  margin: 4rem auto;
+  height: 100%;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
 
 .qualities-container {
   display: flex;
@@ -204,7 +215,7 @@ i {
 }
 
 .about-us img {
-  width: 100%;
+  width: 20%;
   height: 100%;
 }
 
@@ -224,10 +235,11 @@ i {
 }
 
 .messagei-container {
-  background: #000000;
+     background: #334e68;
+  ;
 }
 .messagei-us {
-  width: 90%;
+  width: 100%;
   max-width: 1366px;
   margin: 0 auto;
   height: 50vh;
@@ -257,7 +269,7 @@ i {
 
 /* Contact us */
 
-.contact-us {
+.thanks1 {
   width: 90%;
   max-width: 1366px;
   margin: 5rem auto 0 auto;
@@ -301,7 +313,7 @@ textarea {
   outline: none;
   padding: 0.75rem 2rem;
 }
-.contact-us {
+.thanks1 {
   text-align: center;
 }
 
